@@ -10,7 +10,7 @@ See the diagram below for a depiction of the complete architecture.
 
 ### Modules
 
-This workshop is divided into four modules. Each module describes a scenario of
+Each module describes a scenario of
 what we're going to build and step-by-step directions to help you implement the
 architecture and verify your work.
 
@@ -23,12 +23,12 @@ architecture and verify your work.
 
 :warning: These modules are intended to be executed linearly.
 
-After you have completed the workshop you can delete all of the resources that were created by following the [cleanup guide][cleanup].
+After you have completion, deleted all of the resources that were created by following the [cleanup guide][cleanup].
 
 ### Next
 
 :white_check_mark: Review and follow the directions in the [setup guide][setup],
-wherein you'll configure your AWS Cloud9 IDE and setup pre-requisites like an
+configure  AWS Cloud9 IDE and setup pre-requisites like an
 AWS Account.
 
 [wildrydes]: http://wildrydes.com/
